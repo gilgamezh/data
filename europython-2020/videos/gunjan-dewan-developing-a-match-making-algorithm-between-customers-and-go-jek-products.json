@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1745.0,
+  "language": "eng",
+  "recorded": "2020-07-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://ep2020.europython.eu/schedule/"
+    },
+    {
+      "label": "Conference Website",
+      "url": "https://ep2020.europython.eu/"
+    }
+  ],
+  "speakers": [],
+  "tags": [
+    "EuroPython2020"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/m8-9Q8gI5eQ/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCP24Vep-GMWjr9zupYmDyZEkGMvg",
+  "title": "Gunjan Dewan - Developing a match-making algorithm between customers and Go-Jek products!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=m8-9Q8gI5eQ"
+    }
+  ]
+}

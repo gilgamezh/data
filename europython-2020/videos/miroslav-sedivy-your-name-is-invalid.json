@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1665.0,
+  "language": "eng",
+  "recorded": "2020-07-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://ep2020.europython.eu/schedule/"
+    },
+    {
+      "label": "Conference Website",
+      "url": "https://ep2020.europython.eu/"
+    }
+  ],
+  "speakers": [],
+  "tags": [
+    "EuroPython2020"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/IuZBTjaphsY/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCY7JT6kvJY3TpymV1pqju43bhbMw",
+  "title": "Miroslav \u0160ediv\u00fd - Your Name Is Invalid!",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=IuZBTjaphsY"
+    }
+  ]
+}

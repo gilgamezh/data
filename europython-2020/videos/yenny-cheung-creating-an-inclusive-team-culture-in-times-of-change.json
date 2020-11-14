@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1711.0,
+  "language": "eng",
+  "recorded": "2020-07-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://ep2020.europython.eu/schedule/"
+    },
+    {
+      "label": "Conference Website",
+      "url": "https://ep2020.europython.eu/"
+    }
+  ],
+  "speakers": [],
+  "tags": [
+    "EuroPython2020"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/PKjxIXGKI0w/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAMS43K3TMU51999mRQwA6oXe1r-Q",
+  "title": "Yenny Cheung - Creating an inclusive team culture in times of change",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=PKjxIXGKI0w"
+    }
+  ]
+}

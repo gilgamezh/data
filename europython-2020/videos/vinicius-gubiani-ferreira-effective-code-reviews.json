@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 1749.0,
+  "language": "eng",
+  "recorded": "2020-07-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://ep2020.europython.eu/schedule/"
+    },
+    {
+      "label": "Conference Website",
+      "url": "https://ep2020.europython.eu/"
+    }
+  ],
+  "speakers": [],
+  "tags": [
+    "EuroPython2020"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/05o1LB6yzRM/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLCUowxhXiNTxBmk1mevSw04hicoMw",
+  "title": "Vinicius Gubiani Ferreira - Effective Code Reviews",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=05o1LB6yzRM"
+    }
+  ]
+}

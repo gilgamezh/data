@@ -1,0 +1,29 @@
+{
+  "copyright_text": null,
+  "description": "",
+  "duration": 2884.0,
+  "language": "eng",
+  "recorded": "2020-07-23",
+  "related_urls": [
+    {
+      "label": "Conference schedule",
+      "url": "https://ep2020.europython.eu/schedule/"
+    },
+    {
+      "label": "Conference Website",
+      "url": "https://ep2020.europython.eu/"
+    }
+  ],
+  "speakers": [],
+  "tags": [
+    "EuroPython2020"
+  ],
+  "thumbnail_url": "https://i.ytimg.com/vi/M7BocaqnqF0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBIIaad3CsKm6k3JZZj218rjdBN7Q",
+  "title": "EuroPython 2020  - Lightning Talks 07/23",
+  "videos": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/watch?v=M7BocaqnqF0"
+    }
+  ]
+}
